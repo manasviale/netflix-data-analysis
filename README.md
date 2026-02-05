@@ -16,6 +16,5 @@ ratings, duration, release years, and country-wise distribution.
 - Most content is added within a few years of release.
 - The US and India are top content-producing countries.
 
-## Author
-Vikash
+
 
